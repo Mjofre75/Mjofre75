@@ -3,7 +3,7 @@
 # ¡Hola! Soy Marc Jofré 👋
 
 🎓 Estudiante de **1.º de Desarrollo de Aplicaciones Web (DAW)** en Planeta FP  
-📍 Valls, Cataluña, España
+📍 Tarragona, Cataluña, España
 
 ## 🙋‍♂️ Sobre mí
 
